@@ -40,10 +40,10 @@ echo <<<EOD
           <nav class="menu-main-area">
             <ul id="menu-main" class="menu-main-nav">
               <li class="menu-item current-menu-ancestor current-menu-parent"><a href="index.php">Home</a> </li>
-              <li class="menu-item"><a href="sermons.php">Sermons</a> </li>
+              <li class="menu-item"><a href="about.php">About</a> </li>
               <li class="menu-item"><a href="blog.php">Blog</a> </li>
               <li class="menu-item"><a href="gallery.php">Gallery</a> </li>
-              <li class="menu-item"><a href="about.php">About</a> </li>
+	      <li class="menu-item"><a href="sermons.php">Sermons</a> </li>
               <li class="menu-item"><a href="contact.php">Contact</a></li>
             </ul>
           </nav>
